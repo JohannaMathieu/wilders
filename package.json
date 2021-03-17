@@ -1,0 +1,23 @@
+{
+  "name": "wilders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohannaMathieu/wilders.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohannaMathieu/wilders/issues"
+  },
+  "homepage": "https://github.com/JohannaMathieu/wilders#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
